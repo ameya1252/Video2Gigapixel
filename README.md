@@ -6,6 +6,8 @@ Convert videos into an **ultra-high-resolution panoramic image** using Next.js (
 
 This project allows you to upload multiple video files and stitch selected frames into a single, massive panoramic image. The resulting panorama is displayed in an interactive viewer, providing a seamless way to explore the high-resolution output.
 
+https://github.com/user-attachments/assets/4b9b69be-b474-49ef-8d63-cb348a4cb970
+
 ---
 
 ## ✨ Features
